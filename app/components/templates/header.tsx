@@ -20,10 +20,10 @@ export function Header() {
                 >
                     By{' '}
                     <Image
-                        src="/vercel.svg"
-                        alt="Vercel Logo"
+                        src="/bc.svg"
+                        alt="Bani Cholil Logo"
                         className="dark:invert"
-                        width={100}
+                        width={120}
                         height={24}
                         priority
                     />
